@@ -1,0 +1,25 @@
+{
+  "name": "week-10-liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kbowen200247/Week-10-LIRI-Bot.git"
+  },
+  "author": "Kristen Bowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kbowen200247/Week-10-LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Kbowen200247/Week-10-LIRI-Bot#readme"
+}

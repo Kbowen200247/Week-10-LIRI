@@ -1,0 +1,5 @@
+
+
+[{"Title: ":"Frozen","Year: ":"2013","Rating: ":"7.5","Country of Production: ":"USA","Language: ":"English, Icelandic","Plot: ":"When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.","Actors: ":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/frozen_2013/"}]
+
+[{"Title: ":"The Mummy","Year: ":"1999","Rating: ":"7.0","Country of Production: ":"USA","Language: ":"English, Egyptian (Ancient), Arabic, Chinese, Hebrew, Hungarian","Plot: ":"An American serving in the French Foreign Legion on an archaeological dig at the ancient city of Hamunaptra accidentally awakens a mummy that wreaks havoc on him, and his crew.","Actors: ":"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/1087270-mummy/"}]
