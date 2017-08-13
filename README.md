@@ -18,7 +18,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 <img width="800" height="500" alt="mytweets" src="https://kbowen200247.github.io/week-10-liri/images/my-tweets.png">
 
-2. node liri.js spotify-this-song '<song name here>' (Not Working)
+	2. node liri.js spotify-this-song '<song name here>' (Not Working)
 		* This will show the following information about the song in your terminal/bash window
 			- Artist(s)
 			- The song's name
