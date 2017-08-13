@@ -57,3 +57,8 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 	* Do not overwrite your file each time you run a command.
 
 	<img width="800" height="500" alt="mytweets" src="https://kbowen200247.github.io/week-10-lirl/log_txt.png">
+=======
+# week-10-liri
+
+In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation 
+and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
