@@ -3,3 +3,29 @@
 [{"Title: ":"Frozen","Year: ":"2013","Rating: ":"7.5","Country of Production: ":"USA","Language: ":"English, Icelandic","Plot: ":"When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.","Actors: ":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/frozen_2013/"}]
 
 [{"Title: ":"The Mummy","Year: ":"1999","Rating: ":"7.0","Country of Production: ":"USA","Language: ":"English, Egyptian (Ancient), Arabic, Chinese, Hebrew, Hungarian","Plot: ":"An American serving in the French Foreign Legion on an archaeological dig at the ancient city of Hamunaptra accidentally awakens a mummy that wreaks havoc on him, and his crew.","Actors: ":"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/1087270-mummy/"}]
+
+[{"Numbers: ":1,"Created_at: ":"Tue Aug 01 20:43:32 +0000 2017","Tweets: ":"I just earned a free play by playing #StarbucksSummerGame #sweeps\n https://t.co/vyeQfTu3yg"},{"Numbers: ":2,"Created_at: ":"Thu Mar 09 23:09:12 +0000 2017","Tweets: ":"RT @DisneyMKingdoms: 14 days until the big reveal! Sign up to be the first to hear about the upcoming #DisneyMagicKingdoms announcement: ht…"},{"Numbers: ":3,"Created_at: ":"Sat Nov 26 17:24:02 +0000 2016","Tweets: ":"Here’s an #AmazonGiveaway to win: F-color 6FT Rose Gold Lightning Cable.Join Me Now! @fcolorlife https://t.co/VClCpEMJYA #Ad"},{"Numbers: ":4,"Created_at: ":"Wed Nov 23 00:26:10 +0000 2016","Tweets: ":"@DisneyMKingdoms #DMKPuzzleTwo\nReindeer are better than people."},{"Numbers: ":5,"Created_at: ":"Wed Nov 23 00:25:03 +0000 2016","Tweets: ":"@DisneyMKingdoms  #DMKPuzzleThree \nDo you want to build a Snowman?"},{"Numbers: ":6,"Created_at: ":"Tue Nov 22 16:06:02 +0000 2016","Tweets: ":"@DisneyMKingdoms #DMKPuzzleThree \nReindeer are better than people"},{"Numbers: ":7,"Created_at: ":"Tue Nov 15 18:01:05 +0000 2016","Tweets: ":"@DisneyMKingdoms #DMKPUZZLEONE \nDown 1) Warm 2) Hugs\nAcross 2) Holiday"},{"Numbers: ":8,"Created_at: ":"Fri Oct 14 15:04:30 +0000 2016","Tweets: ":"Let's solve the mystery behind #DMKHalloween in #DisneyMagicKingdoms!  https://t.co/jlO6YKRR6D"},{"Numbers: ":9,"Created_at: ":"Tue Feb 23 19:21:16 +0000 2016","Tweets: ":"Proud to be the 443rd backer on @BackerKit for Couchlet: Power Up Your Sofa https://t.co/Rg49xgap8p"},{"Numbers: ":10,"Created_at: ":"Wed Jan 06 14:51:45 +0000 2016","Tweets: ":"How much do you know about Coke Zero? Test yourself! https://t.co/SX51Kc5wXM #CokeZeroTrivia"},{"Numbers: ":11,"Created_at: ":"Mon Nov 23 00:45:25 +0000 2015","Tweets: ":"Now you can make a Coke at home. Keurig KOLD™ can make your favorites with the push of a button! https://t.co/JPYUtkAjiL #FreshMadeFaves"}]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[{"Title: ":"Frozen","Year: ":"2013","Rating: ":"7.5","Country of Production: ":"USA","Language: ":"English, Icelandic","Plot: ":"When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.","Actors: ":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/frozen_2013/"}]
+
+[{"Title: ":"Frozen","Year: ":"2013","Rating: ":"7.5","Country of Production: ":"USA","Language: ":"English, Icelandic","Plot: ":"When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.","Actors: ":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/frozen_2013/"}]
+
+[{"Title: ":"Monster Trucks","Year: ":"2016","Rating: ":"5.7","Country of Production: ":"USA, Canada","Language: ":"English","Plot: ":"A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.","Actors: ":"Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/monster_trucks_2017/"}]
+
+[{"Title: ":"Kidnap","Year: ":"2017","Rating: ":"6.0","Country of Production: ":"USA","Language: ":"English","Plot: ":"A mother stops at nothing to recover her kidnapped son.","Actors: ":"Halle Berry, Sage Correa, Chris McGinn, Lew Temple","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/kidnap_2015/"}]
+
+[{"Title: ":"Monster Trucks","Year: ":"2016","Rating: ":"5.7","Country of Production: ":"USA, Canada","Language: ":"English","Plot: ":"A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.","Actors: ":"Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper","Rotten Tomatoes URL: ":"http://www.rottentomatoes.com/m/monster_trucks_2017/"}]
